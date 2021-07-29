@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: gainsboro;
+}
+
+h1{
+    color: rebeccapurple;
+    text-align: center;
+}
+table{
+    border: 2px solid darkorchid;
+    width: 650px;
+    margin: 0 auto;
+    background-color: lightblue;
+}
+
+thead{
+    color: darkorchid;
+    background-color: plum;
+
+}
+
+td{
+    border-top: 1px solid darkorchid;
+    border-left: darkorchid solid 1px;
+    padding: 1em;
+}
+.css{text-align: center;
+font-weight: 600;
+font-style: italic;
+color:mediumblue;
+}
+
+thead .css{
+    width: 150px;
+}
+
+.html {
+    font-weight: 700;
+    font-family: monospace;
+    color:darkorchid;
+}

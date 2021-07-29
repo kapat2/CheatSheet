@@ -2,7 +2,9 @@ body {
     font-family: Arial, sans-serif;
     background-color: gainsboro;
 }
-
+div{
+    background-color: gainsboro;
+}
 h1{
     color: rebeccapurple;
     text-align: center;
